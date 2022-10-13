@@ -1,10 +1,15 @@
   Hi there, I am julius Marenga,
- > 
-  JavaScript developer with frameworks like Node.js with Express,React.js 
+  
+  ## My stack
+  
+  ### Web development
+  ` Javascript`, ` Vuejs` ,
+  `Nodejs ( express)`, `RESTFUL-API`
+  ### Blockchain development
+  ` smartcontracts ( solidity)`, `Etherjs library`, ` Hyperledger-besu`, `web3-storages ( IPFS)`
 	
-  Also  available in twiter as [julius_marenga](https://twitter.com/julius_marenga).
- > 
-  Blockchain development ethusiast.     
+  Also  available and sharing blockchain contents in `twiter` as [julius_marenga](https://twitter.com/julius_marenga).
+   
  
  
    
