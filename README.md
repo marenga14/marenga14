@@ -3,10 +3,10 @@
   ## My stack
   
   ### Web development
-  ` Javascript`, ` Vuejs` ,
-  `Nodejs ( express)`, `RESTFUL-API`
+  ` Javascript`,  `React`,
+  `Nodejs ( express)`, 
   ### Blockchain development
- ` Web3 consultant`	 ` smartcontracts ( solidity)`, `Etherjs library`, ` Hyperledger-besu`, `web3-storages ( IPFS)`
+ ` Web3 consultant`	 ` smartcontracts ( solidity)`, `Etherjs library`, `web3-storages ( IPFS)`
 	
   Also  available and sharing blockchain contents in `twiter` as [julius_marenga](https://twitter.com/julius_marenga).
    
