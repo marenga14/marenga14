@@ -3,7 +3,7 @@
   ## My stack
   
   ### Web development
-  ` Javascript`,  `React`,
+  ` Javascript`,  `React`, ` Nextjs`, 
   `Nodejs ( express)`, 
   ### Blockchain development
  ` Web3 consultant`	 ` smartcontracts ( solidity)`, `Etherjs library`, `web3-storages ( IPFS)`
