@@ -1,5 +1,5 @@
  # 💫 About Me:
-JavaScript & solidity lover; Building @Lukuchap. I turn coffee into code, building everything from sleek web apps to robust backend systems and mobile apps—all powered by JS.
+Software Engineer | Passionate with Blockchain Technologies | Building @Lukuchap.
 
  
 
