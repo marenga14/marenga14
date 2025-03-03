@@ -1,5 +1,5 @@
  # 💫 About Me:
-Software Engineer | Passionate with Blockchain Technologies | Building @Lukuchap.
+Software Engineer | Passionate with Blockchain Technologies 
 
  
 
