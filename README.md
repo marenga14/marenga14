@@ -1,5 +1,5 @@
  # 💫 About Me:
-Software Engineer | Passionate with Blockchain Technologies 
+Full-Stack Engineer | Passionate with Blockchain Technologies 
 
  
 
