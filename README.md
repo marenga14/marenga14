@@ -1,8 +1,5 @@
-] # 💫 Introduction
+ # 💫 Introduction
 Full-Stack Engineer | Passionate with Blockchain Technologies 
-
- 
-
 
  
 # [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/julius_marenga) 
